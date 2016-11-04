@@ -1,6 +1,6 @@
 {
-    "appSecret": "f7e31ae8dc77456db86bec513929879a",
-    "pageAccessToken": "EAADB9YJkcjYBAI3JEaDK3GdPUsZAoZBhwCtUEHHRud7KDH0p9ElxlzrFW8nHPuuwed8D8ZAwJ9GcORtu02FyAw60VEZAeywrR0nOmP40dqy02G8t1R0NZCXZA3L5kZBJREdrJ02NaVtqaVmf25IRyWOsr1tKLH4CBcuXErw43kQLgZDZD",
-    "validationToken": "verifica_token",
-    "serverURL": "https://smessenger.herokuapp.com/"
+    "appSecret": "",
+    "pageAccessToken": "",
+    "validationToken": "",
+    "serverURL": "
 }
