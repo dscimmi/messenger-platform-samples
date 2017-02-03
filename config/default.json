@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": "
+    "appSecret": ENV['appSecret'],
+    "pageAccessToken": ENV['pageAccessToken'],
+    "validationToken": ENV['validationToken'],
+    "serverURL": ENV['serverURL']
 }
